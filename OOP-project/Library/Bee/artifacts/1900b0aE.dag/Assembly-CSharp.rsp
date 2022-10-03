@@ -382,6 +382,7 @@
 "Assets/Script/FloatingText.cs"
 "Assets/Script/FloatingTextManager.cs"
 "Assets/Script/GameManager.cs"
+"Assets/Script/Menu.cs"
 "Assets/Script/Monitor.cs"
 "Assets/Script/Mover.cs"
 "Assets/Script/Player.cs"
