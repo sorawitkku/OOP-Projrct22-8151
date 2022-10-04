@@ -387,6 +387,8 @@
 "Assets/Script/Mover.cs"
 "Assets/Script/Player.cs"
 "Assets/Script/Portal.cs"
+"Assets/Script/Quit.cs"
+"Assets/Script/StartButtom.cs"
 "Assets/Script/Weapon.cs"
 -langversion:9.0
 
